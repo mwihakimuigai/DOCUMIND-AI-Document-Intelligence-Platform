@@ -55,19 +55,16 @@ Mwihaki Muigai
 ## Screenshots
 
 ### Login Page
-![Login Page](./docs/screenshots/login-page.png)
+![Login Page](./login-page.png)
 
 ### Dashboard
-![Dashboard](./docs/screenshots/dashboard.png)
-
+![Dashboard](./dashboard.png)
 ### Documents Page
-![Documents Page](./docs/screenshots/documents-page.png)
-
+![Documents Page](./documents-page.png)
 ### AI Insights Page
-![AI Insights](./docs/screenshots/ai-insights-page.png)
-
+![AI Insights](./ai-insights-page.png)
 ### Search Page
-![Search Page](./docs/screenshots/search-page.png)
+![Search Page](./search-page.png)
 
 ## Project Structure
 
